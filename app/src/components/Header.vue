@@ -81,7 +81,7 @@
           <li>
             <RouterLink
               @click.native="closeMobileNav"
-              to="/contact"
+              to="/cyber"
               class="text-white hover:text-purple-500"
               >Cybersecurity</RouterLink
             >
@@ -97,7 +97,7 @@
           <li>
             <router-link
               @click.native="closeMobileNav"
-              to="/#"
+              to="/contact"
               class="border rounded-lg p-2 border-purple-500 hover:text-purple-500"
               >Contact Us</router-link
             >
