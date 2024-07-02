@@ -12,7 +12,7 @@
               <!-- SVG path -->
             </svg>
             <p class="text-center md:text-left text-2xl">
-              2129 General Booth Blvd, Suite <br> 103-217, Virginia Beach, VA 23454
+              Nakuru Kenyatta Avenue <br> Gibcon House 4th Floor
             </p>
           </div>
           <div class="flex items-center space-x-2 md:space-x-8 mt-4 md:mt-0">
